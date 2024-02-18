@@ -1,67 +1,72 @@
 # Eventos de Tecnologia
+## Legenda
+#### 🔒 Evento sobre Segurança da Informação
+#### 🏴‍☠️ Evento sobre Hacking
+#### 💻 Evento sobre Programação
+#### 🐧 Evento sobre Open-Source
 
 # América do Sul
-
-## 📍 Argentina
-[Ekoparty](https://ekoparty.org/)
-- 2023: 01, 02 e 03/11
-- 2024: a confirmar
 
 ## 📍 Brasil
 
 ### Maio
-[CryptoRave](https://cryptorave.org/)  
+[CryptoRave](https://cryptorave.org/) 🏴‍☠️  
 - 2023: 05 e 06/05
 - 2024: a confirmar
 
-[BSides SP](https://securitybsides.com.br/)  
+[BSides SP](https://securitybsides.com.br/) 🔒 🏴‍☠️  
 - 2024: 17 e 18/05
 
-[BSides ES](https://bsides.vix.br/)  
+[BSides ES](https://bsides.vix.br/) 🔒 🏴‍☠️
 - 2024: 18/05
 
-[You Sh0t The Sheriff](https://www.ysts.org/)  
+[You Sh0t The Sheriff](https://www.ysts.org/) 🔒  
 - 2024: 20/05 
 
 ### Julho
-[Roadsec](https://www.roadsec.com.br/)
+[Roadsec](https://www.roadsec.com.br/) 🔒
 - 2023: 15/07
 - 2024: a confirmar
 
 ### Setembro
-[Mind The Sec](https://www.mindthesec.com.br/)
+[Mind The Sec](https://www.mindthesec.com.br/) 🔒
 - 2024: 17, 18 e 19/09
 
 ### Outubro
-[Hackers 2 Hacker Conference](https://www.h2hc.com.br/)  
+[Hackers 2 Hacker Conference](https://www.h2hc.com.br/) 🏴‍☠️  
 - 2023: 09 e 10/12
 - 2024: A confirmar. Normalmente, penúltima semana de Outubro
 
-[Cyber Security Summit](https://www.cybersecuritysummit.com.br/)
+[Cyber Security Summit](https://www.cybersecuritysummit.com.br/) 🔒
 - 2024: 28 e 29/10
 
-[Cyber Security For Critical Assets](https://latam.cs4ca.com/)
+[Cyber Security For Critical Assets](https://latam.cs4ca.com/) 🔒
 - 2024: 29 e 30/10
 
 ### Novembro
-[Nullbyte](https://www.nullbyte-con.org/)
+[Nullbyte](https://www.nullbyte-con.org/) 🔒 🏴‍☠️
 - 2024: 30/11
 
 ### Dezembro
-[BHack](https://www.bhack.com.br/)
+[BHack](https://www.bhack.com.br/) 🏴‍☠️
 - 2023: 02 a 13/12
 - 2024: A confirmar
+
+## 📍 Argentina
+[Ekoparty](https://ekoparty.org/) 🔒🏴‍☠️
+- 2023: 01, 02 e 03/11
+- 2024: a confirmar
 
 # América do Norte
 
 ## 📍 Estados Unidos
-[Black Hat EUA](https://www.blackhat.com/)
+[Black Hat EUA](https://www.blackhat.com/) 🏴‍☠️
 - 2024: 03 a 08/08
 
-[BSides Las Vegas](https://bsideslv.org/)
+[BSides Las Vegas](https://bsideslv.org/) 🔒 🏴‍☠️
 - 2024: 06 a 07/08
   
-[DEFCON](https://defcon.org/)
+[DEFCON](https://defcon.org/) 🏴‍☠️
 - 2024: 08 a 11/08
 
 # Europa
