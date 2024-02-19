@@ -9,6 +9,10 @@
 
 ## 📍 Brasil
 
+### Março
+[Tosconf](https://tosconf.lhc.net.br/)
+- 23/03 - LHC - Campinas - SP
+
 ### Maio
 [CryptoRave](https://cryptorave.org/) 🏴‍☠️  
 - 2023: 05 e 06/05
